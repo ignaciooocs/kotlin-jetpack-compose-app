@@ -1,0 +1,28 @@
+# Archivos y carpetas generados por el IDE
+*.iml
+.idea/
+.DS_Store
+local.properties
+
+# Archivos de caché y configuraciones específicas del usuario
+.gradle/
+.cxx/
+.externalNativeBuild/
+captures/
+build/
+
+# Archivos específicos de sistema operativo
+Thumbs.db
+desktop.ini
+
+# Archivos y configuraciones adicionales de Android Studio
+/.idea/caches/
+/.idea/libraries/
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+
+# Archivos de compilación intermedios
+/.gradle/
+/build/
